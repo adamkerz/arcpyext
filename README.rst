@@ -25,7 +25,7 @@ arcpyext.data
 
 The *data* module wraps the basic create, update and delete operations in an edit session, automatically starting/
 stoping/aborting an edit operation as appropriate. The functions simply wrap the appropriate *arcpy.da* cursors, so 
-functionally they work identically. Also provided is a handy fucntion for reading rows into a list.
+functionally they work identically. Also provided is a handy function for reading rows into a list.
 
 Example::
 
